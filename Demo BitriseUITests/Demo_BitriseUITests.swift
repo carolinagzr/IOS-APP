@@ -27,10 +27,20 @@ class Demo_BitriseUITests: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
         super.tearDown()
     }
-    
-    func testExample() {
+
+    func testScreenshots() {
         // Use recording to get started writing UI tests.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
+//		let app = XCUIApplication()
+//		setupSnapshot(app)
+//
+//		snapshot("01MainView")
+//
+//		app.buttons["changeButton"].tap()
+//
+//		snapshot("02SecondView")
+
+
     }
     
 }

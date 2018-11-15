@@ -1,0 +1,11 @@
+/* 
+  Localized.strings
+  Demo Bitrise
+
+  Created by Javier Gonzalez on 14/11/2018.
+  Copyright © 2018 Treasire Inc. All rights reserved.
+*/
+
+"Change_view" = "Change view";
+"Main_view" = "Main view";
+"Second_view" = "Second view";
