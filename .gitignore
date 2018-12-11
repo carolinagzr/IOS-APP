@@ -1,3 +1,4 @@
-Demo Bitrise.xcodeproj/xcuserdata
-Demo Bitrise.xcodeproj/project.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata/javi.xcuserdatad/xcdebugger/*
+*.xcodeproj/project.xcworkspace/xcuserdata/*
+*.xcodeproj/project.xcworkspace/xcuserdata/*.xcuserdatad/UserInterfaceState.xcuserstate
 .DS_Store
